@@ -6,7 +6,7 @@
  - Facultad: Fisi deidad
  - Universidad: unmsm
 
- ## Hobbis
+## Hobbis
  
  - jugar futbol
  - jugar L4D2
