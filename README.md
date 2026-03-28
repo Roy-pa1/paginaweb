@@ -2,13 +2,16 @@
 
 ## Datos Personales
 
- - Nombre: Roy :D
+ - Nombre: *Roy :D*
  - Facultad: Fisi deidad
  - Universidad: unmsm
- - Carrera: Cienca de la Computación
+ - Carrera: **Cienca de la Computación**
   
 ## Hobbis
  
  - jugar futbol
  - jugar L4D2
+
+### Cursos Favoritos
+ 1. Algebra
  
