@@ -5,7 +5,8 @@
  - Nombre: Roy :D
  - Facultad: Fisi deidad
  - Universidad: unmsm
-
+ - Carrera: Cienca de la Computación
+  
 ## Hobbis
  
  - jugar futbol
